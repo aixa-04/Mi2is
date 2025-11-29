@@ -13,9 +13,4 @@ public class HelloController {
         return "Hola mundo";
     }
 
-    @GetMapping("/")
-    public String home() {
-        return "Bienvenido a la página principal";
-    }
-
 }
