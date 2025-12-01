@@ -1,2 +1,8 @@
-# Mi2is.P6
-Práctica 6 - Backend y frontend
+# Mi2is
+Aplicación de gestión de medicamentos
+
+Aixa Hamed Segura
+
+Belén Ríos Calle
+
+Laura Sánchez Fernández
