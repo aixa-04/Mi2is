@@ -10,7 +10,7 @@ public class HolaMundoController {
 
     @GetMapping("/hola")
     public String holaMundo() {
-        return "¡Hola Mundo! Esto lo hicimos el sábado 29/11/2025.";
+        return "¡Hola Mundo!";
     }
 
     @GetMapping("/")
